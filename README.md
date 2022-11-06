@@ -88,6 +88,17 @@ r.ProgSave(r"""E:/RoboDK/Python37/Scripts""",r"""Prog1""",True,r"""E:/RoboDK/Oth
  
 ### SIMULATION :
 
+![PP](https://user-images.githubusercontent.com/75413726/200162440-2db7247b-f586-447b-9067-2005da74f783.png)
+
+![PP1](https://user-images.githubusercontent.com/75413726/200162434-033bc5c5-c619-4eaf-84c7-1ffd5179a9f4.png)
+
+![PP2](https://user-images.githubusercontent.com/75413726/200162423-4f77c33f-18c7-4626-a035-2f90c8e2b0d8.png)
+
+![PP3](https://user-images.githubusercontent.com/75413726/200162446-ed09d835-4fe0-4fef-b67d-af4fb91d3651.png)
+
+![PP4](https://user-images.githubusercontent.com/75413726/200162452-e018e5ea-81ec-4cc9-8004-06e6314f7040.png)
+
+![PP5](https://user-images.githubusercontent.com/75413726/200162685-2a7775cf-2047-463a-82dc-554542f4dec1.png)
 
 ### RESULTS :  
 
